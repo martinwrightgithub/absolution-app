@@ -1,0 +1,14 @@
+{
+  "name": "absolution-app",
+  "version": "1.0.0",
+  "description": "This is fake app for a fake company. This is just a test. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Martin Wright",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
